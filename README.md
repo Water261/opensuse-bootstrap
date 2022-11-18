@@ -1,2 +1,2 @@
 # opensuse-bootstrap
-A collection of my AutoYAST configurations
+The collection of ansible playbooks I use to deploy my system
